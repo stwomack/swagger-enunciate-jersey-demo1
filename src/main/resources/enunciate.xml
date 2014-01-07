@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<enunciate label="SwaggerEnunciateJerseyDemo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://enunciate.codehaus.org/schemas/enunciate-1.26.xsd">
+	<modules>
+		<docs docsDir="/docs" title="Swagger and Enuciate Demo for Jersey REST"/>
+        <java-client disabled="false"/>
+        <jaxws-ri disabled="false"/>
+        <jersey disabled="false"/>
+    </modules>
+</enunciate>
